@@ -1,0 +1,6 @@
+public enum TipoAtividade {
+    DISTANCIA,
+    DISTANCIA_E_ALTIMETRIA,
+    REPETICAO,
+    REPETICAO_COM_PESO
+}
